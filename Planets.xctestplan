@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "90E586F2-5BC8-47CA-814B-7B7096520714",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Planets.xcodeproj",
+      "identifier" : "CC215D642A0FEAC200309597",
+      "name" : "Planets"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Planets.xcodeproj",
+        "identifier" : "CC215D792A0FEAC400309597",
+        "name" : "PlanetsTests"
+      }
+    }
+  ],
+  "version" : 1
+}
